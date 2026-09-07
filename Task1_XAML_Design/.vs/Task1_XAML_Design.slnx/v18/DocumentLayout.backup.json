@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wolf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Software_Development_Tools\\Task1_XAML_Design\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDAB337-8632-4F58-AAB6-DB47E886E182}|Task1_XAML_Design\\Task1_XAML_Design.csproj|c:\\users\\wolf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\software_development_tools\\task1_xaml_design\\task1_xaml_design\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFDAB337-8632-4F58-AAB6-DB47E886E182}|Task1_XAML_Design\\Task1_XAML_Design.csproj|solutionrelative:task1_xaml_design\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDAB337-8632-4F58-AAB6-DB47E886E182}|Task1_XAML_Design\\Task1_XAML_Design.csproj|c:\\users\\wolf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\software_development_tools\\task1_xaml_design\\task1_xaml_design\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDAB337-8632-4F58-AAB6-DB47E886E182}|Task1_XAML_Design\\Task1_XAML_Design.csproj|solutionrelative:task1_xaml_design\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Wolf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Software_Development_Tools\\Task1_XAML_Design\\Task1_XAML_Design\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Task1_XAML_Design\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Wolf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Software_Development_Tools\\Task1_XAML_Design\\Task1_XAML_Design\\MainWindow.xaml",
+              "RelativeToolTip": "Task1_XAML_Design\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-05T12:59:16.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Wolf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Software_Development_Tools\\Task1_XAML_Design\\Task1_XAML_Design\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task1_XAML_Design\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Wolf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Software_Development_Tools\\Task1_XAML_Design\\Task1_XAML_Design\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "Task1_XAML_Design\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T12:59:14.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
